@@ -34,3 +34,4 @@ jobs:
             build s3://fe-116-daldalchoi \
             --delete
         working-directory: ./my-agora-states-client
+//ssds
